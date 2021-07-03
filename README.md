@@ -12,9 +12,11 @@ This repository contains codes and documentation developed during E-Yantra Robot
 
 Given Arena :
 
-![](./images/cb_arena.png)
+<p align="center">
+  <img src="./images/cb_arena.png" alt="cb_arena">
+</p>
 
-In this theme, the arena is an abstraction of a disaster site where the robot picks the construction material and traverses paths in order to deposit it at the site to be reconstructed. In order to maneuver over these paths, the Construct-O-Bot has to use intelligent line-following and path-planning algorithms to reach safely and quickly using shortest paths. After reaching the site, the Construct-O-Bot carefully has to place the material at the required positions which may include placing the material at different heights from the ground. It has to deposit all required material at multiple construction sites, navigating through various terrains.
+In this theme, the arena is an abstraction of a disaster site where the robot picks the construction material (colored blocks) and traverses paths in order to deposit it at the site to be reconstructed (low-rise and high-rise houses). In order to maneuver over these paths, the Construct-O-Bot has to use intelligent line-following and path-planning algorithms to reach safely and quickly using shortest paths. After reaching the site, the Construct-O-Bot carefully has to place the material at the required positions which may include placing the material at different heights from the ground. It has to deposit all required material at multiple construction sites, navigating through various terrains.
 
 __*Tech Stack: Building a Bot, V-Rep Simulation, Micro-controller Programming, Path Planning, C++*__
 
