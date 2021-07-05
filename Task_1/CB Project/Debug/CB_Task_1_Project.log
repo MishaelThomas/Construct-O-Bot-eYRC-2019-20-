@@ -1,0 +1,3 @@
+﻿  CB_Task_1_Sandbox.cpp
+C:\E-Yantra 2k19\Task 1\task1#cb\3.CB Project\CB_Task_1_Sandbox.cpp(678,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CB_Task_1_Project.vcxproj -> C:\E-Yantra 2k19\Task 1\task1#cb\3.CB Project\Debug\CB_Task_1_Project.exe
