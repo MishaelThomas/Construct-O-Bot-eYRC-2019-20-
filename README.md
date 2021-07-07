@@ -24,7 +24,7 @@ Our team was able to complete Stage-1 and partially complete Stage-2 (upto Task 
 
 *Stage 1*: Implementing the given task using simulation. This includes Task 0 and Task 1.
   * *Task 0*: Installation and testing of necessary software (Visual Studio IDE and V-REP robot simulator).
-  * *Task 1*: Using path planning and line following algorithms to complete the given task in shortest possible time.
+  * *Task 1*: Using path planning and line following algorithms to complete the given task in shortest possible time. __(A* search algorithm was used)__
   
 *Stage 2*: This stage involves working with actual hardware to implement the solution developed before.
   * *Task 2*: Printing arena in a flex sheet and constructing blocks and houses as per rulebook. Hardware testing also needs to be done.
